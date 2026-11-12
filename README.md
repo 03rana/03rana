@@ -65,7 +65,7 @@ const arnab = {
 
 <br/>
 
-<!-- ═══════════ TROPHIES ═══════════ -->
+<!-- ═══════════ TROPHIES ═══════════ 
 <h3 align="center"><code>~/trophies</code></h3>
 
 <div align="center">
@@ -75,7 +75,7 @@ const arnab = {
 </div>
 
 <br/>
-
+-->
 <!-- ═══════════ ACTIVITY ═══════════ -->
 <h3 align="center"><code>~/activity</code></h3>
 
